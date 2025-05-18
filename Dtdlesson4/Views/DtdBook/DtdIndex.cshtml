@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Dtdlesson4.Models.DtdBook>
+@{
+    ViewData["Title"] = "List Book";
+}
+
+<h1>thong tin sach</h1>
+<table class="table table-bordered ">
+    <thead>
+        <tr>
+            <th>BookId</th>
+            <th>Tittle</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(DtdBook dtdItem in Model)
+        {
+            <tr>
+                <td>
+                    @dtdItem.Id
+                </td>
+                <td>
+                    @dtdItem.Title
+                </td>
+                <td>
+                    @dtdItem.Description
+                </td>
+                <td>
+                    @dtdItem.Image
+                </td>
+                <td>
+                    @dtdItem.Price
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
