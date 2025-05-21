@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|c:\\users\\admin\\source\\repos\\dtdlesson5\\views\\dtdmember\\dtdgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|solutionrelative:views\\dtdmember\\dtdgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|c:\\users\\admin\\source\\repos\\dtdlesson5\\controllers\\dtdmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|solutionrelative:controllers\\dtdmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|c:\\users\\admin\\source\\repos\\dtdlesson5\\models\\datamodel\\dtdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|solutionrelative:models\\datamodel\\dtdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|c:\\users\\admin\\source\\repos\\dtdlesson5\\views\\shared\\_dtdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|solutionrelative:views\\shared\\_dtdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|c:\\users\\admin\\source\\repos\\dtdlesson5\\views\\dtdhome\\dtdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|solutionrelative:views\\dtdhome\\dtdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|c:\\users\\admin\\source\\repos\\dtdlesson5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|c:\\users\\admin\\source\\repos\\dtdlesson5\\controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|solutionrelative:controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|c:\\users\\admin\\source\\repos\\dtdlesson5\\views\\dtdhome\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|solutionrelative:views\\dtdhome\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|c:\\users\\admin\\source\\repos\\dtdlesson5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD33EEB-70DF-4239-B441-38226734C982}|DtdLesson5.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DtdGetMember.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Views\\DtdMember\\DtdGetMember.cshtml",
+              "RelativeDocumentMoniker": "Views\\DtdMember\\DtdGetMember.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Views\\DtdMember\\DtdGetMember.cshtml",
+              "RelativeToolTip": "Views\\DtdMember\\DtdGetMember.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T15:49:55.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DtdMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Controllers\\DtdMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DtdMemberController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Controllers\\DtdMemberController.cs",
+              "RelativeToolTip": "Controllers\\DtdMemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:43:58.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DtdMember.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Models\\DataModel\\DtdMember.cs",
+              "RelativeDocumentMoniker": "Models\\DataModel\\DtdMember.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Models\\DataModel\\DtdMember.cs",
+              "RelativeToolTip": "Models\\DataModel\\DtdMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:41:02.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:11:49.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_DtdLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Views\\Shared\\_DtdLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_DtdLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Views\\Shared\\_DtdLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_DtdLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T12:10:25.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DtdAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Views\\DtdHome\\DtdAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\DtdHome\\DtdAbout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Views\\DtdHome\\DtdAbout.cshtml",
+              "RelativeToolTip": "Views\\DtdHome\\DtdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T12:06:58.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DtdIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Views\\DtdHome\\DtdIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\DtdHome\\DtdIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Views\\DtdHome\\DtdIndex.cshtml",
+              "RelativeToolTip": "Views\\DtdHome\\DtdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T12:03:31.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DtdHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Controllers\\DtdHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DtdHomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Controllers\\DtdHomeController.cs",
+              "RelativeToolTip": "Controllers\\DtdHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:02:29.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DtdLesson5\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T12:01:04.96Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

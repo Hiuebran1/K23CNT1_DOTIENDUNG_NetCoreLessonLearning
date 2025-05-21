@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "Member Infomation";
+    var dtdMember = ViewBag.dtdMember as DtdLesson5.Models.DataModel.DtdMember;
+}
+
+<div class="alert alert-danger">
+    <1>Information</1>
+    <hr />
+    <p>ID:@dtdMember.DtdMemberID</p>
+    <p>UserName:@dtdMember.DtdUserName</p>
+    <p>FullName:@dtdMember.DtdFullName</p>
+    <p>PassWord:@dtdMember.DtdPassword</p>
+    <p>Email:@dtdMember.DtdEmail</p>
+</div>
+
