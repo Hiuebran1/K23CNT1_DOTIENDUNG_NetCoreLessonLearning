@@ -1,0 +1,36 @@
+﻿@model List<DtdLab06.Models.Employee>
+
+@{
+    ViewData["Title"] = "Danh sách sinh viên";
+}
+
+<h2 class="my-3">Danh sách nhân viên</h2>
+
+<a asp-action="DtdCreate" class="btn btn-success mb-3">Thêm mới</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Mã SV</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Phone</th>
+            <th>Lương</th>
+            <th>Trạng thái</th>
+        </tr>
+    </thead>
+    <tbody>
+        <a href="DtdCreate" class="btn btn-primary">Thêm mới</a>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaSV</td>
+                <td>@item.HoTen</td>
+                <td>@item.NgaySinh.ToString("dd/MM/yyyy")</td>
+                <td>@item.Phone</td>
+                <td>@item.Luong.ToString("N0")</td>
+                <td>@item.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
