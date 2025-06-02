@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Dtdlesson7.Models.DtdEmployee>
+
+@{
+    ViewData["Title"] = "DtdIndex";
+    Layout = "~/Views/Shared/_DtdLayout.cshtml";
+}
+
+<h1>DtdIndex</h1>
+
+<p>
+    <a asp-action="DtdCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DtdId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DtdName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DtdBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DtdPhone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DtdId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DtdName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DtdBirthDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DtdPhone)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "DtdEdit", new { id=item.DtdId }) |
+                @Html.ActionLink("Details", "DtdDetails", new { id=item.DtdId }) |
+                @Html.ActionLink("Delete", "DtdDelete", new { id=item.DtdId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

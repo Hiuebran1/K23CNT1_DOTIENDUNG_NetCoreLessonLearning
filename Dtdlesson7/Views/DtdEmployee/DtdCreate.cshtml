@@ -1,0 +1,51 @@
+﻿@model Dtdlesson7.Models.DtdEmployee
+
+@{
+    ViewData["Title"] = "DtdCreate";
+    Layout = "~/Views/Shared/_DtdLayout.cshtml";
+}
+
+<h1>DtdCreate</h1>
+
+<h4>DtdEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="DtdCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DtdId" class="control-label"></label>
+                <input asp-for="DtdId" class="form-control" />
+                <span asp-validation-for="DtdId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdName" class="control-label"></label>
+                <input asp-for="DtdName" class="form-control" />
+                <span asp-validation-for="DtdName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdBirthDay" class="control-label"></label>
+                <input asp-for="DtdBirthDay" class="form-control" />
+                <span asp-validation-for="DtdBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdPhone" class="control-label"></label>
+                <input asp-for="DtdPhone" class="form-control" />
+                <span asp-validation-for="DtdPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="DtdIndex">Back to List</a>
+</div>
+
