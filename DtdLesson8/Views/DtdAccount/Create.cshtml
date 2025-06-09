@@ -1,0 +1,76 @@
+﻿
+@model DtdLesson8.Models.DtdAccount
+@{
+    ViewData["Title"] = "Create Account";
+    Layout = "_DtdLayout";
+}
+
+    <h2>Create </h2>
+    <h4>Account</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create" >
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group>
+                <label asp-for="ID" class="control-label"></label>
+                <input asp-for="ID" class="form-control" />
+                <span asp-validation-for="ID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdFullname" class="control-label"></label>
+                <input asp-for="DtdFullname" class="form-control" />
+                <span asp-validation-for="DtdFullname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdEmail" class="control-label"></label>
+                <input asp-for="DtdEmail" class="form-control" />
+                <span asp-validation-for="DtdEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdPhone" class="control-label"></label>
+                <input asp-for="DtdPhone" class="form-control" />
+                <span asp-validation-for="DtdPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdAddress" class="control-label"></label>
+                <input asp-for="DtdAddress" class="form-control" />
+                <span asp-validation-for="DtdAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdAvatar" class="control-label"></label>
+                <input asp-for="DtdAvatar" class="form-control" />
+                <span asp-validation-for="DtdAvatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdBirthday" class="control-label"></label>
+                <input asp-for="DtdBirthday" class="form-control" />
+                <span asp-validation-for="DtdBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdGender" class="control-label"></label>
+                <input asp-for="DtdGender" class="form-control" />
+                <span asp-validation-for="DtdGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdPassword" class="control-label"></label>
+                <input asp-for="DtdPassword" class="form-control" />
+                <span asp-validation-for="DtdPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtdLink" class="control-label"></label>
+                <input asp-for="DtdLink" class="form-control" />
+                <span asp-validation-for="DtdLink" class="text-danger"></span>
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Create" class="btn btn-success">Create</a>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
