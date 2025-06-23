@@ -1,6 +1,6 @@
-using System.Diagnostics;
 using Dtdlesson9.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace Dtdlesson9.Controllers
 {

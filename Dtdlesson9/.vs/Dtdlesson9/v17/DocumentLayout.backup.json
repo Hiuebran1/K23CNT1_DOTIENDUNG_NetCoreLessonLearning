@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\dtdcategories\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\dtdcategories\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\controllers\\dtdcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:controllers\\dtdcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\dtdcategories\\dtddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\dtdcategories\\dtddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\shared\\_dtdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\shared\\_dtdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\dtdcategories\\dtddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\dtdcategories\\dtddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\dtdcategories\\dtdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\dtdcategories\\dtdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\dtdcategories\\dtdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\dtdcategories\\dtdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\models\\dtdbookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:models\\dtdbookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\dtdhome\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\dtdhome\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,20 +67,16 @@
       "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\dtdhome\\dtdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\shared\\_dtdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\shared\\_dtdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\shared\\_dtdlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\shared\\_dtdlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\shared\\_dtdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\shared\\_dtdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\shared\\_dtdlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\shared\\_dtdlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1F54542-B780-4557-994B-D41D8C1442E5}|Dtdlesson9.csproj|c:\\users\\admin\\source\\repos\\dtdlesson9\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,71 +102,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_DtdLayout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_DtdLayout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_DtdLayout.cshtml.css",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_DtdLayout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_DtdLayout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-16T03:03:40.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_DtdNavBar.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_DtdNavBar.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_DtdNavBar.cshtml",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_DtdNavBar.cshtml",
               "RelativeToolTip": "Views\\Shared\\_DtdNavBar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-16T01:41:51.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_DtdLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_DtdLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_DtdLayout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_DtdLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_DtdLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "DtdEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdCategories\\DtdEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\DtdCategories\\DtdEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdCategories\\DtdEdit.cshtml",
+              "RelativeToolTip": "Views\\DtdCategories\\DtdEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:28:18.453Z",
+              "WhenOpened": "2025-06-23T02:43:40.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DtdAbout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdHome\\DtdAbout.cshtml",
-              "RelativeDocumentMoniker": "Views\\DtdHome\\DtdAbout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdHome\\DtdAbout.cshtml",
-              "RelativeToolTip": "Views\\DtdHome\\DtdAbout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DtdDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdCategories\\DtdDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\DtdCategories\\DtdDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdCategories\\DtdDetails.cshtml",
+              "RelativeToolTip": "Views\\DtdCategories\\DtdDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:31:32.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DtdIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdHome\\DtdIndex.cshtml",
-              "RelativeDocumentMoniker": "Views\\DtdHome\\DtdIndex.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdHome\\DtdIndex.cshtml",
-              "RelativeToolTip": "Views\\DtdHome\\DtdIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:30:49.881Z",
+              "WhenOpened": "2025-06-23T02:56:10.083Z",
               "EditorCaption": ""
             },
             {
@@ -140,33 +158,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:28:47.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T01:28:11.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "DtdCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Controllers\\DtdCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DtdCategoriesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Controllers\\DtdCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\DtdCategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:58:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DtdIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdCategories\\DtdIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\DtdCategories\\DtdIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdCategories\\DtdIndex.cshtml",
+              "RelativeToolTip": "Views\\DtdCategories\\DtdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T01:35:49.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:05:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:05:09.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DtdDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdCategories\\DtdDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\DtdCategories\\DtdDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdCategories\\DtdDelete.cshtml",
+              "RelativeToolTip": "Views\\DtdCategories\\DtdDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T02:55:57.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DtdCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdCategories\\DtdCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\DtdCategories\\DtdCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdCategories\\DtdCreate.cshtml",
+              "RelativeToolTip": "Views\\DtdCategories\\DtdCreate.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T01:48:20.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -179,7 +266,108 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
+              "Title": "DtdIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdHome\\DtdIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\DtdHome\\DtdIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdHome\\DtdIndex.cshtml",
+              "RelativeToolTip": "Views\\DtdHome\\DtdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:30:49.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Models\\Publisher.cs",
+              "RelativeToolTip": "Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T01:30:10.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T03:40:14.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DtdBookStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Models\\DtdBookStoreContext.cs",
+              "RelativeDocumentMoniker": "Models\\DtdBookStoreContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Models\\DtdBookStoreContext.cs",
+              "RelativeToolTip": "Models\\DtdBookStoreContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:40:08.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DtdAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdHome\\DtdAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\DtdHome\\DtdAbout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\DtdHome\\DtdAbout.cshtml",
+              "RelativeToolTip": "Views\\DtdHome\\DtdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:31:32.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_DtdLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_DtdLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_DtdLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_DtdLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_DtdLayout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:28:18.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_DtdLayout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_DtdLayout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_DtdLayout.cshtml.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_DtdLayout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_DtdLayout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-16T03:03:40.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:28:47.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -187,12 +375,11 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:32:40.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T01:32:40.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -200,12 +387,11 @@
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:32:41.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T01:32:41.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Dtdlesson9\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -213,12 +399,7 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:28:23.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-06-16T01:28:23.307Z"
             }
           ]
         }
